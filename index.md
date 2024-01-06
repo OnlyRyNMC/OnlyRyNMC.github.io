@@ -1,6 +1,6 @@
 ---
 layout: page
-title "Games"
+title: "Games"
 ---
 
 I am creative, a great communicator and keen problem solver currently studying [Computer Games Programming at the University of Gloucestershire] (https://www.glos.ac.uk/courses/course/cgp-bsc-computer-games-programming/), UK. 
