@@ -3,16 +3,16 @@ title:  "Ryan's Physics Adventure"
 layout: post
 ---
 
-## Description
+## Description:
 
 This is my Physics Adventure game which is a showcase of some of the mechanics I learnt in Unity. This was my very first Unity project.
 
-### Link to GitHub Project
+### Link to GitHub Project:
 [Click Here](https://github.com/OnlyRyNMC/Ryan-s-Physics-Adventure)
 
 {% include embed.html url="https://www.youtube.com/embed/obMiIj9ttww?si=L3RPvFWbQ3EzvVms" %}
 
-#### Links
+#### Links:
 [Ole Urbigkeit - 2021 - CustomCrosshair](https://apps.microsoft.com/store/detail/customcrosshair/9P91WLP2WXN5?hl=en-us&gl=us) 
 
 [Mrthenoronha - 2020 - 8 Bit Water Stage Loop.wav](https://freesound.org/people/Mrthenoronha/sounds/523725/)
