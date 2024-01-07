@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "CV", file: "CV (v1.4).pdf"}
+  - {title: "CV", url: "https://downgit.github.io/#/home?url=https://github.com/OnlyRyNMC/OnlyRyNMC.github.io/blob/master/CV (v1.4).pdf"}
   - {title: "Games", file: "games.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
