@@ -1,6 +1,6 @@
 title: "Home"
 author: "Home"
-description: "University of Gloucestershire"
+description: "[University of Gloucestershire](https://www.glos.ac.uk)"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
