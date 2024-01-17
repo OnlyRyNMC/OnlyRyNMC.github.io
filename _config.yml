@@ -17,6 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV", file: "assets/CV.pdf"}
+  - [get the PDF]({{ https://onlyrynmc.github.io }}/assets/CV.pdf)
   - {title: "Games", file: "games.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
