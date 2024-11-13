@@ -10,6 +10,3 @@ Last 3 projects:
 - [Tic Tac Toe IOS/Windows](https://onlyrynmc.github.io/TicTacToe/)
 - [WeARGhostHunters AR mobile game](https://onlyrynmc.github.io/WeARGhostHunters/)
 - [Firework Show](https://onlyrynmc.github.io/FireworkShow/) 
-
-
-![me](https://github.com/OnlyRyNMC/OnlyRyNMC.github.io/assets/147284195/1524fcc1-6749-4a70-89a3-38cffbe4ced9)
