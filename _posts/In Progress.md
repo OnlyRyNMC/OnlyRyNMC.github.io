@@ -9,6 +9,7 @@ I have been working on creating 3D models of my real-life PC parts using photogr
 Below you can see some images of the work in progress, as I train a gaussian splat of a graphics card I have to look highly defined, while also lowering the poly count (to reduce file size).
 
 
+
 GPU in RealityCapture after allignment, creating a mesh, texturzing and colouring:
 ![gpu rc](https://github.com/user-attachments/assets/52e1b63c-d8c7-4a00-bedc-e989cd18c221)
 
