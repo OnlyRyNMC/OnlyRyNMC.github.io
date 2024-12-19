@@ -7,10 +7,8 @@ Hello my name is Ryan McNab. I am creative, a great communicator and keen proble
 I am dedicated, hardworking, resilient and imaginative and enjoy working with people from all backgrounds as well as experiencing new challenges and taking advantage of novel opportunities.
 
 Projects in progress:
-- [PC Parts using Photogrammetry](https://onlyrynmc.github.io/PCParts/)
-
 
 Last 3 projects:
 - [Tic Tac Toe IOS/Windows](https://onlyrynmc.github.io/TicTacToe/)
 - [WeARGhostHunters AR mobile game](https://onlyrynmc.github.io/WeARGhostHunters/)
-- [Firework Show](https://onlyrynmc.github.io/FireworkShow/) 
+- [How To Turn Your Photos/Videos Into 3D Models (Unreal Engine 5 / Jawset Postshot / RealityCapture / SuperSplat TUTORIAL)](https://onlyrynmc.github.io/PCParts/) 
