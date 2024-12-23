@@ -9,7 +9,6 @@ I am dedicated, hardworking, resilient and imaginative and enjoy working with pe
 Projects in progress:
 
 Last 3 projects:
+- [Eyeball (Blender to UE5)](https://onlyrynmc.github.io/Eyeball/)
 - [How To Turn Your Photos/Videos Into 3D Models (Unreal Engine 5 / Jawset Postshot / RealityCapture / SuperSplat TUTORIAL)](https://onlyrynmc.github.io/PCParts/) 
 - [Tic Tac Toe IOS/Windows](https://onlyrynmc.github.io/TicTacToe/)
-- [WeARGhostHunters AR mobile game](https://onlyrynmc.github.io/WeARGhostHunters/)
-
