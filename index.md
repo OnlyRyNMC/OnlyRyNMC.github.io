@@ -9,6 +9,7 @@ I am dedicated, hardworking, resilient and imaginative and enjoy working with pe
 Projects in progress:
 
 Last 3 projects:
+- [Time In The Lab (Art Diorama)](https://onlyrynmc.github.io/ArtDiorama/)
 - [Eyeball (Blender to UE5)](https://onlyrynmc.github.io/Eyeball/)
 - [How To Turn Your Photos/Videos Into 3D Models (Unreal Engine 5 / Jawset Postshot / RealityCapture / SuperSplat TUTORIAL)](https://onlyrynmc.github.io/PCParts/) 
-- [St Priories Wall](https://onlyrynmc.github.io/SPWall/)
+
