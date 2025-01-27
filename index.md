@@ -8,8 +8,6 @@ I am dedicated, hardworking, resilient and imaginative and enjoy working with pe
 
 Above are links to my CV and the games/projects I have completed. In the games section, click "Read more" to watch videos and find out more about my work.
 
-Projects in progress:
-
 Last 3 projects:
 - [Time In The Lab (Art Diorama)](https://onlyrynmc.github.io/ArtDiorama/)
 - [Eyeball (Blender to UE5)](https://onlyrynmc.github.io/Eyeball/)
